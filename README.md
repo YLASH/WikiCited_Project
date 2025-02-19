@@ -23,7 +23,7 @@ their citation counts, which are just 4.6% of all citations, with less than 0.5%
 specialist universities—significantly lower than the contributions of a single ancient 
 university.</p>
 
-- <b>Comparison of Two Methodologies </b> :
+<b>Comparison of Two Methodologies </b> :
 Compared to previous methodologies, WikiOpenCite simplifies the data retrieval process 
 and present data visualization, thereby significantly enhancing both efficiency and user 
 experience. While there are areas that could benefit from further refinement, the tool 
