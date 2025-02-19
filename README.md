@@ -38,6 +38,11 @@ represents a considerable advancement at this stage of development.
 
 - <b>Methodology Comparison </b>: Evaluated two approaches to OA measurement.
 
-### Extended Practice
+### Practice
 - Built on methodologies used in previous studies, including White Rose research and WikiOpenCite data.
 - The study’s findings contribute to discussions on open-access impact and research visibility.
+
+
+### Extensition
+- utilises the data practing Data Scrapping
+- utilises the data practing Data Visualisation by python
