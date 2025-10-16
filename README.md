@@ -46,3 +46,6 @@ represents a considerable advancement at this stage of development.
 ### Extensition
 - utilises the data practing Data Scrapping
 - utilises the data practing Data Visualisation by python
+
+![Tableau_dashbroad_M](./images/Dashboard Modern.png)
+![Tableau_dashbroad_s](./images/Dashboard Specialist.png)
